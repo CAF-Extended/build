@@ -19,4 +19,3 @@
 # capitalized by convention.
 
 BUILD_ID=SQ1D.211205.016.A1
-
